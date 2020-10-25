@@ -1,0 +1,21 @@
+body {
+    background: moccasin;
+    text-align: center;
+}
+
+div {
+    margin: top;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    background-color: white;
+    width: 450px;
+}
